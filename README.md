@@ -20,12 +20,12 @@ The download link for the model is below: Link: https://pan.baidu.com/s/1Eam0aV8
 
 A comprehensive evaluation of ColVO on colon odometry benchmarks reveals its superiority in depth and pose estimation. The trajectory predictions of ColVO are close to the ground truth and exhibit less drift or jitter compared to other methods.
 
-![image-20240801151626073](F:\photo\image-20240801151626073.png)
+![image-trajectory predictions](imgs/trajectorypredictions.png)
 
 The qualitative results of the depth estimation comparison with the SoTA methods are shown below.
 
-![image-20240801151728215](F:\photo\image-20240801151728215.png)
+![image-qualitative results](imgs/qualitativeresults.png)
 
 To demonstrate the effectiveness of  ColVO, we also implemented a 3D colon reconstruction visualization by stitching together the dense depth maps of each frame using the colonoscopic trajectory. Here is the 3D colon reconstruction visualization.
 
-![image-20240801151555674](F:\photo\image-20240801151555674.png)
+![image-3D colon reconstruction visualization](imgs/3Dcolonreconstruction.png)
