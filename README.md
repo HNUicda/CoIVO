@@ -10,7 +10,7 @@ We also demonstrate two valuable applications: immediate polyp localization and 
 
 ## Dataset
 
-The download link for the dataset is below: Link: https://pan.baidu.com/s/1Zi15B1ucp2zoZjwWmU8zZw Code：o1k2
+The download link for the dataset is below: Link: https://drive.google.com/drive/folders/1mBZyiTOW_AP1cTkxvKmBBkoQQdSqvyQh?usp=sharing
 
 ## Model
 
